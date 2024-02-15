@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46191345117",
+    "project_id": "lista-de-tarefas-11ecc",
+    "storage_bucket": "lista-de-tarefas-11ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46191345117:android:ac3ea0398789a2d7924a34",
+        "android_client_info": {
+          "package_name": "com.example.listadetarefascompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxozp-8Myso1Gaa1uzcO95-uFIwgWHxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
